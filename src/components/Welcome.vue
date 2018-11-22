@@ -6,19 +6,32 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Our Studio!</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+          <div class="intro-lead-in"><img class="logopic" src="img/logo.png"></div>
+          <div class="intro-heading text-uppercase">Seeing is Believing</div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a>
         </div>
       </div>
     </header>
 
 
 
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Who we are -->
-    <section class="bg-light" id="about">
+    <section class="bg-light" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -34,7 +47,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Convenience</h4>
@@ -52,7 +65,7 @@
             </a>
             <div class="portfolio-caption">
               <h4>Cleanliness</h4>
-              <p class="text-muted">Graphic Design</p>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -76,7 +89,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Compassion</h4>
@@ -93,7 +106,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
+            <h2 class="section-heading text-uppercase">Packages</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
@@ -101,34 +114,56 @@
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-car fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Classic Wash&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$39.95&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing</p>   
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-car fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Responsive Design</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Elegant Wash&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$54.95&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Complete Armor All treatment and floor mats shampoo</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-award fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Web Security</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Dignified Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$89.94&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Exterior Armor All<br>Exterior hand wax, carnauba wax hand applied, hand polish<br>*Optional clay process add $39.99</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-award fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Web Security</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Exquisite Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$89.94&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Interior leather or vinyl clean and reconditioning<br>Floor mats wash</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-crown fa-stack-1x fa-inverse"></i>
+            </span>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Luxurious Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$249.99&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior shampoo, upholstery, carpet and mats<br>Interior leather or vinyl clean and reconditioning<br>Exterior Wheel cleaning<br>Exterior clay process<br>Exterior paint sealant<br>Exterior Armor All</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-plus fa-stack-1x fa-inverse"></i>
+            </span>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Custom&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$39.99+&nbsp;</h4>
+            <p class="text-muted">We offer customed package pricing as well as add-on services. A bundle discount is applied when more than one car at a time is scheduled for our services</p>
           </div>
         </div>
       </div>
@@ -143,15 +178,15 @@
 
 
 
-
-    <!-- Portfolio Grid -->
-    <section class="bg-light" id="portfolio">
+    
+    <!-- Portfolio Grid --> 
+    <!-- <section class="bg-light" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Why Choose Us?</h2>
+            <h2 class="section-heading text-uppercase">Why Choose Us?</h2> -->
             <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
-          </div>
+          <!-- </div>
         </div>
         <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -164,7 +199,7 @@
               <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Threads</h4>
+              <h4>Eco-Friendly</h4>
               <p class="text-muted">Eco-Friendly</p>
             </div>
           </div>
@@ -178,8 +213,8 @@
               <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+              <h4>Partner Benefits</h4>
+              <p class="text-muted">Partner Benefits</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -192,11 +227,11 @@
               <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Finish</h4>
+              <h4>Something Else</h4>
               <p class="text-muted">Identity</p>
             </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          </div> -->
+          <!-- <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -237,10 +272,10 @@
               <h4>Window</h4>
               <p class="text-muted">Photography</p>
             </div>
-          </div>
-        </div>
+          </div> -->
+        <!-- </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- About -->
     <!-- <section id="about">
@@ -706,5 +741,33 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style >
+.leftborder {
+  border: solid rgb(117, 117, 117);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background: rgb(117, 117, 117);
+  text-align: left;
+  display: inline-block;
+  color:white;
+}
+.rightborder {
+  border: solid rgb(113, 25, 255);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: rgb(113, 25, 255);
+  text-align: left;
+  display: inline-block;
+  color: white;
+}
 
+.alignleft {
+  text-align: left;
+}
+
+
+.logopic {
+  width: 10%;
+  height: 10%;
+
+}
 </style>
