@@ -53,7 +53,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
               <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Convenience</h4>
+              <h4 style="font-size: 130%">Convenience</h4>
               <p class="text-muted"></p>
             </div>
           </div>
@@ -67,7 +67,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
               <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Cleanliness</h4>
+              <h4 style="font-size: 130%">Cleanliness</h4>
               <p class="text-muted"></p>
             </div>
           </div>
@@ -81,7 +81,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
               <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Customer Service</h4>
+              <h4 style="font-size: 130%">Customer Service</h4>
               <p class="text-muted"></p>
             </div>
           </div>
@@ -95,7 +95,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
               <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Compassion</h4>
+              <h4 style="font-size: 130%">Compassion</h4>
               <p class="text-muted"></p>
             </div>
           </div>
