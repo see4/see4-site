@@ -40,7 +40,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -54,7 +54,7 @@
               <p class="text-muted"></p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-5 portfolio-item">
+          <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -68,7 +68,7 @@
               <p class="text-muted"></p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -82,7 +82,7 @@
               <p class="text-muted"></p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
