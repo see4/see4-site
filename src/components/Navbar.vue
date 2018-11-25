@@ -21,17 +21,23 @@
             <!-- <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#about">About</a>
             </li> -->
-            <li class="nav-item">
+            <li class="nav-item" v-if="!isLoggedIn">
               <a class="nav-link js-scroll-trigger" href="#team">Locations</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger mod" v-if="!isLoggedIn"  @click="showLogin">Login</a>
+            <li class="nav-item" v-if="!isLoggedIn" >
+              <a class="nav-link js-scroll-trigger mod"  @click="showLogin">Login</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger mod" v-if="!isLoggedIn" @click="showRegister">Sign up</a>
+            <li class="nav-item" v-if="!isLoggedIn">
+              <a class="nav-link js-scroll-trigger mod"  @click="showRegister">Sign up</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger mod" v-if="isLoggedIn" @click="logout">Logout</a>
+            <li class="nav-item" v-if="isLoggedIn">
+              <a class="nav-link js-scroll-trigger mod"  @click="gotoAdmin">Admin</a>
+            </li>
+            <li class="nav-item" v-if="isLoggedIn">
+              <a class="nav-link js-scroll-trigger mod"  @click="gotoProfile">Profile</a>
+            </li>
+            <li class="nav-item" v-if="isLoggedIn">
+              <a class="nav-link js-scroll-trigger mod"  @click="logout">Logout</a>
             </li>
           </ul>
         </div>
@@ -127,6 +133,12 @@ import firestore from '@/firebase/firestore';
         });
       },
       methods:{
+        gotoProfile(){
+          this.$router.push({name: 'Profile', params:{id: this.$store.getters.currentUser.uid}});
+        },
+        gotoAdmin(){
+          this.$router.push({name: 'Admin'});
+        },
         showLogin(){
           this.$refs.loginModal.show();
         },
