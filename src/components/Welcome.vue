@@ -6,59 +6,190 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Our Studio!</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+          <!-- <div class="intro-lead-in">See4</div> -->
+          <div class="intro-heading text-uppercase">Seeing is Believing</div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a>
         </div>
       </div>
     </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Who we are -->
+    <section class="bg-light" id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Seeing is Believing</h2>
+            <h3 class="section-subheading text-muted">See4 Car Wash &amp; Detailing was launched with the promise of adding more time and convenience to your life with emphasis on environmental consciousness.
+
+Our mission is simple; add convenience to the lives of our customer’s while promoting water conservation.
+</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4 style="font-size: 130%">Convenience</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4 style="font-size: 130%">Cleanliness</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4 style="font-size: 130%">Customer Service</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4 style="font-size: 130%">Compassion</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
 
     <!-- Services -->
     <section id="services">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Packages</h2>
+            <h3 class="section-subheading text-muted"></h3>
           </div>
         </div>
         <div class="row text-center">
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-car fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Classic Wash&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$39.95&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing</p>   
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-car fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Responsive Design</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Elegant Wash&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$54.95&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Complete Armor All treatment and floor mats shampoo</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              <i class="fas fa-award fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Web Security</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Dignified Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$89.94&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Exterior Armor All<br>Exterior hand wax, carnauba wax hand applied, hand polish<br>*Optional clay process add $39.99</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-award fa-stack-1x fa-inverse"></i>
+            </span>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Exquisite Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$89.94&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Interior leather or vinyl clean and reconditioning<br>Floor mats wash</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-crown fa-stack-1x fa-inverse"></i>
+            </span>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Luxurious Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$249.99&nbsp;</h4>
+            <p class="text-muted alignleft">Exterior hand wash<br>Interior shampoo, upholstery, carpet and mats<br>Interior leather or vinyl clean and reconditioning<br>Exterior Wheel cleaning<br>Exterior clay process<br>Exterior paint sealant<br>Exterior Armor All</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x text-primary"></i>
+              <i class="fas fa-plus fa-stack-1x fa-inverse"></i>
+            </span>
+            <p></p>
+            <h4 class="service-heading leftborder">&nbsp;Custom&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$39.99+&nbsp;</h4>
+            <p class="text-muted">We offer customed package pricing as well as add-on services. A bundle discount is applied when more than one car at a time is scheduled for our services</p>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Portfolio Grid -->
-    <section class="bg-light" id="portfolio">
+
+
+
+
+
+
+
+
+
+    
+    <!-- Portfolio Grid --> 
+    <!-- <section class="bg-light" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-          </div>
+            <h2 class="section-heading text-uppercase">Why Choose Us?</h2> -->
+            <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+          <!-- </div>
         </div>
         <div class="row">
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -71,8 +202,8 @@
               <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
+              <h4>Eco-Friendly</h4>
+              <p class="text-muted">Eco-Friendly</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -85,8 +216,8 @@
               <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+              <h4>Partner Benefits</h4>
+              <p class="text-muted">Partner Benefits</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -99,11 +230,11 @@
               <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Finish</h4>
+              <h4>Something Else</h4>
               <p class="text-muted">Identity</p>
             </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          </div> -->
+          <!-- <div class="col-md-4 col-sm-6 portfolio-item">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -144,13 +275,13 @@
               <h4>Window</h4>
               <p class="text-muted">Photography</p>
             </div>
-          </div>
-        </div>
+          </div> -->
+        <!-- </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- About -->
-    <section id="about">
+    <!-- <section id="about">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -228,24 +359,24 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Team -->
     <section class="bg-light" id="team">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Our Current Locations</h2>
+            <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
           </div>
         </div>
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-              <h4>Kay Garland</h4>
-              <p class="text-muted">Lead Designer</p>
-              <ul class="list-inline social-buttons">
+              <h4>Los Angeles</h4>
+              <!-- <p class="text-muted">Lead Designer</p> -->
+              <!-- <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fab fa-twitter"></i>
@@ -261,15 +392,15 @@
                     <i class="fab fa-linkedin-in"></i>
                   </a>
                 </li>
-              </ul>
+              </ul> -->
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-              <h4>Larry Parker</h4>
-              <p class="text-muted">Lead Marketer</p>
-              <ul class="list-inline social-buttons">
+              <h4>Coming Soon</h4>
+              <!-- <p class="text-muted">Lead Marketer</p> -->
+              <!-- <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fab fa-twitter"></i>
@@ -285,10 +416,10 @@
                     <i class="fab fa-linkedin-in"></i>
                   </a>
                 </li>
-              </ul>
+              </ul> -->
             </div>
           </div>
-          <div class="col-sm-4">
+          <!-- <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
               <h4>Diana Pertersen</h4>
@@ -311,18 +442,18 @@
                 </li>
               </ul>
             </div>
-          </div>
-        </div>
-        <div class="row">
+          </div>-->
+        </div> 
+        <!-- <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
 
     <!-- Clients -->
-    <section class="py-5">
+    <!-- <section class="py-5">
       <div class="container">
         <div class="row">
           <div class="col-md-3 col-sm-6">
@@ -347,7 +478,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Contact -->
     <section id="contact">
@@ -355,7 +486,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
           </div>
         </div>
         <div class="row">
@@ -412,18 +543,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Convenience</h2>
+                  <p class="item-intro text-muted">The on-demand economy is reshaping the landscape of our society and vastly improving our efficiency. That is why we decided to introduce it to the car wash industry and even help create more jobs. See4 Car Wash &amp; Detailing delivers on-demand mobile car detailing services, offering a unique,easy-to-use app and insured washers who utilize efficient techniques and products to make your vehicle look its very best at a time and place convenient to you. </p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
-                    <li>Date: January 2017</li>
+                    <li></li>
                     <li>Client: Threads</li>
                     <li>Category: Illustration</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -446,18 +577,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Cleanliness</h2>
+                  <p class="item-intro text-muted">We partner and train professional, insured mobile detailers with a dedicated quality assurance team on our proprietary 10-point system.  Each member of our team goes through extensive training before they become See4 certified.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Explore</li>
                     <li>Category: Graphic Design</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -480,18 +611,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Customer Service</h2>
+                  <p class="item-intro text-muted">We are dedicated to providing quality service, customer satisfaction at a great value in multiple locations offering convenient hours. Our goal is to provide our customers with the friendliest, most convenient hand car wash experience possible.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Finish</li>
                     <li>Category: Identity</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -514,15 +645,15 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Compassion</h2>
+                  <p class="item-intro text-muted">We have developed a wash process that uses 2-4oz of water per vehicle through a virtually waterless detailing method. Compare this to the average automated car was that can waste up to 100 gallons of water per wash. See4’s team shares a passion for social entrepreneurship by promoting innovative efforts that make the world a better place. We firmly believe that See4 is the future of car washing.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Lines</li>
                     <li>Category: Branding</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
@@ -613,5 +744,33 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style >
+.leftborder {
+  border: solid rgb(117, 117, 117);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background: rgb(117, 117, 117);
+  text-align: left;
+  display: inline-block;
+  color:white;
+}
+.rightborder {
+  border: solid rgb(73, 73, 73);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: rgb(73, 73, 73);
+  text-align: left;
+  display: inline-block;
+  color: white;
+}
 
+.alignleft {
+  text-align: left;
+}
+
+
+.logopic {
+  width: 10%;
+  height: 10%;
+
+}
 </style>
