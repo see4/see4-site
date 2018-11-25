@@ -6,7 +6,7 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in"><img class="logopic" src="img/logo.png"></div>
+          <div class="intro-lead-in">See4</div>
           <div class="intro-heading text-uppercase">Seeing is Believing</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a>
         </div>
@@ -51,7 +51,7 @@
             </a>
             <div class="portfolio-caption">
               <h4>Convenience</h4>
-              <p class="text-muted">Eco-Friendly</p>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-5 portfolio-item">
@@ -79,7 +79,7 @@
             </a>
             <div class="portfolio-caption">
               <h4>Customer Service</h4>
-              <p class="text-muted">Customer Service</p>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -93,7 +93,7 @@
             </a>
             <div class="portfolio-caption">
               <h4>Compassion</h4>
-              <p class="text-muted">Compassion</p>
+              <p class="text-muted"></p>
             </div>
           </div>
         </div>
@@ -107,7 +107,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Packages</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted"></h3>
           </div>
         </div>
         <div class="row text-center">
@@ -540,18 +540,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Convenience</h2>
+                  <p class="item-intro text-muted">The on-demand economy is reshaping the landscape of our society and vastly improving our efficiency. That is why we decided to introduce it to the car wash industry and even help create more jobs. See4 Car Wash &amp; Detailing delivers on-demand mobile car detailing services, offering a unique,easy-to-use app and insured washers who utilize efficient techniques and products to make your vehicle look its very best at a time and place convenient to you. </p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
-                    <li>Date: January 2017</li>
+                    <li></li>
                     <li>Client: Threads</li>
                     <li>Category: Illustration</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -574,18 +574,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Cleanliness</h2>
+                  <p class="item-intro text-muted">We partner and train professional, insured mobile detailers with a dedicated quality assurance team on our proprietary 10-point system.  Each member of our team goes through extensive training before they become See4 certified.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Explore</li>
                     <li>Category: Graphic Design</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -608,18 +608,18 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Customer Service</h2>
+                  <p class="item-intro text-muted">We are dedicated to providing quality service, customer satisfaction at a great value in multiple locations offering convenient hours. Our goal is to provide our customers with the friendliest, most convenient hand car wash experience possible.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Finish</li>
                     <li>Category: Identity</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -642,15 +642,15 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                  <h2 class="text-uppercase">Compassion</h2>
+                  <p class="item-intro text-muted">We have developed a wash process that uses 2-4oz of water per vehicle through a virtually waterless detailing method. Compare this to the average automated car was that can waste up to 100 gallons of water per wash. See4’s team shares a passion for social entrepreneurship by promoting innovative efforts that make the world a better place. We firmly believe that See4 is the future of car washing.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Lines</li>
                     <li>Category: Branding</li>
-                  </ul>
+                  </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
@@ -751,10 +751,10 @@ export default {
   color:white;
 }
 .rightborder {
-  border: solid rgb(113, 25, 255);
+  border: solid rgb(73, 73, 73);
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
-  background: rgb(113, 25, 255);
+  background: rgb(73, 73, 73);
   text-align: left;
   display: inline-block;
   color: white;
