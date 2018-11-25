@@ -36,7 +36,10 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Seeing is Believing</h2>
-            <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+            <h3 class="section-subheading text-muted">See4 Car Wash &amp; Detailing was launched with the promise of adding more time and convenience to your life with emphasis on environmental consciousness.
+
+Our mission is simple; add convenience to the lives of our customer’s while promoting water conservation.
+</h3>
           </div>
         </div>
         <div class="row">
@@ -483,7 +486,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
           </div>
         </div>
         <div class="row">
