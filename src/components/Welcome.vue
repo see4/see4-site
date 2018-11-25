@@ -6,7 +6,7 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">See4</div>
+          <!-- <div class="intro-lead-in">See4</div> -->
           <div class="intro-heading text-uppercase">Seeing is Believing</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a>
         </div>
