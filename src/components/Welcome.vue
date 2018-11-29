@@ -122,7 +122,9 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             </span>
             <p></p>
             <h4 class="service-heading leftborder">&nbsp;Classic Wash&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$39.95&nbsp;</h4>
-            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing</p>   
+            <div class="cardborder">
+              <p class="text-muted alignleft cardinside">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br><br><br>&nbsp;</p>   
+            </div>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -131,7 +133,9 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             </span>
             <p></p>
             <h4 class="service-heading leftborder">&nbsp;Elegant Wash&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$54.95&nbsp;</h4>
-            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Complete Armor All treatment and floor mats shampoo</p>
+            <div class="cardborder">
+              <p class="text-muted alignleft cardinside">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Complete Armor All treatment and floor mats shampoo<br>&nbsp;</p>
+            </div>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -140,8 +144,13 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             </span>
             <p></p>
             <h4 class="service-heading leftborder">&nbsp;Dignified Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$89.94&nbsp;</h4>
-            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Exterior Armor All<br>Exterior hand wax, carnauba wax hand applied, hand polish<br>*Optional clay process add $39.99</p>
+            <div class="cardborder">
+              <p class="text-muted alignleft cardinside">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Exterior Armor All<br>Exterior hand wax, carnauba wax hand applied, hand polish<br>*Optional clay process add $39.99</p>
+            </div>
           </div>
+
+          <div style="width:1000px; height:30px;"></div>
+
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -149,8 +158,11 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             </span>
             <p></p>
             <h4 class="service-heading leftborder">&nbsp;Exquisite Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$89.94&nbsp;</h4>
-            <p class="text-muted alignleft">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Interior leather or vinyl clean and reconditioning<br>Floor mats wash</p>
+            <div class="cardborder">
+              <p class="text-muted alignleft cardinside">Exterior hand wash<br>Interior vacuum - seats, carpets and mats<br>Interior wipe down<br>Window cleaning inside and out<br>Wheel cleaning<br>Tire dressing<br>Interior leather or vinyl clean and reconditioning<br>Floor mats wash</p>
+            </div>
           </div>
+          
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -158,7 +170,9 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             </span>
             <p></p>
             <h4 class="service-heading leftborder">&nbsp;Luxurious Detail&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$249.99&nbsp;</h4>
-            <p class="text-muted alignleft">Exterior hand wash<br>Interior shampoo, upholstery, carpet and mats<br>Interior leather or vinyl clean and reconditioning<br>Exterior Wheel cleaning<br>Exterior clay process<br>Exterior paint sealant<br>Exterior Armor All</p>
+            <div class="cardborder">
+              <p class="text-muted alignleft cardinside">Exterior hand wash<br>Interior shampoo - upholstery, carpet and mats<br>Interior leather or vinyl clean and reconditioning<br>Exterior Wheel cleaning<br>Exterior clay process<br>Exterior paint sealant<br>Exterior Armor All</p>
+            </div>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -167,7 +181,9 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             </span>
             <p></p>
             <h4 class="service-heading leftborder">&nbsp;Custom&nbsp;</h4><h4 class="service-heading rightborder">&nbsp;$39.99+&nbsp;</h4>
-            <p class="text-muted">We offer customed package pricing as well as add-on services. A bundle discount is applied when more than one car at a time is scheduled for our services</p>
+            <div class="cardborder">
+              <p class="text-muted cardinside">We offer customed package pricing as well as add-on services. A bundle discount is applied when more than one car at a time is scheduled for our services<br><br><br><br><br>&nbsp;</p>
+            </div>
           </div>
         </div>
       </div>
@@ -657,7 +673,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
                   </ul> -->
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -691,7 +707,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
-                    Close Project</button>
+                    Close</button>
                 </div>
               </div>
             </div>
@@ -772,6 +788,20 @@ export default {
 .logopic {
   width: 10%;
   height: 10%;
+}
 
+.cardborder {
+  box-shadow: 1px 4px 8px 2px rgba(0,0,0,0.2);
+  padding: 0px 16px;
+  /* border-style: solid;
+  border-width: 5px; */
+  height: 270px;
+  background-color:white;
+}
+
+.cardinside {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%); 
 }
 </style>
