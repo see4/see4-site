@@ -24,7 +24,7 @@
             <li class="nav-item" v-if="!isLoggedIn">
               <a class="nav-link js-scroll-trigger" href="#team">Locations</a>
             </li>
-            <li class="nav-item" v-if="!isLoggedIn" >
+            <!-- <li class="nav-item" v-if="!isLoggedIn" >
               <a class="nav-link js-scroll-trigger mod"  @click="showLogin">Login</a>
             </li>
             <li class="nav-item" v-if="!isLoggedIn">
@@ -35,9 +35,12 @@
             </li>
             <li class="nav-item" v-if="isLoggedIn">
               <a class="nav-link js-scroll-trigger mod"  @click="gotoProfile">Profile</a>
-            </li>
-            <li class="nav-item" v-if="isLoggedIn">
+            </li> -->
+            <!-- <li class="nav-item" v-if="isLoggedIn">
               <a class="nav-link js-scroll-trigger mod"  @click="logout">Logout</a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
           </ul>
         </div>

@@ -1,7 +1,7 @@
 <template>
 <!-- <div id="page-top"> -->
   <div id="app">
-    
+    <div style= "width: 100%;height: 100px;background-color: #212529; position: fixed; z-index: 15;"></div>
     <Navbar />
       <router-view />
     <Footer/>

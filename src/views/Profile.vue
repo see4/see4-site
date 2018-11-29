@@ -1,6 +1,10 @@
 <template>
-    <div v-if="profile">
-        <h1>Welcome {{profile.displayName}}</h1>
+    <div>
+        <p class="temphead"></p>
+        <div v-if="profile">
+            
+            <h1 class="temp">Welcome {{profile.displayName}}</h1>
+        </div>
     </div>
 </template>
 <script>
@@ -26,5 +30,13 @@ export default {
 }
 </script>
 <style>
+.temp {
+  margin-top: 100px;
+}
 
+.temphead {
+  width: 100%;
+  height: 100px;
+  background-color: #212529;
+}
 </style>

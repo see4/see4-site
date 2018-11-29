@@ -1,6 +1,10 @@
 <template>
+
   <div class="home">
-    <div><h1>Home Page</h1></div>
+
+
+    <div class="temphead"></div>
+    <div class="temp"><h1>Home Page</h1></div>
   </div>
 </template>
 
@@ -13,3 +17,16 @@ export default {
   }
 };
 </script>
+
+
+<style>
+.temp {
+  margin-top: 100px;
+}
+
+.temphead {
+  width: 100%;
+  height: 100px;
+  background-color: #212529;
+}
+</style>
