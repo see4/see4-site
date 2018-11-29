@@ -371,7 +371,7 @@ Our mission is simple; add convenience to the lives of our customer’s while pr
             <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
           </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
